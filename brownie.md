@@ -42,6 +42,7 @@
 
 ## Cheese Cake Swirl Brownies
 ![Cheese cake brownie](http://i.imgur.com/16dTqXu.jpg)
+
 The above photos also has raspberry swirl. You can make it with raspberry jam or cook raspberries with butter and sugar, then strain out the seeds.
 
 ### Additional Ingredients
