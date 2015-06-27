@@ -1,11 +1,11 @@
 Ingredients
 
-1 cup flour
-1/2 cup water
-2 1/2 tablespoons sugar, This is optional, for dessert crepes.
-2 eggs
-3 tablespoons butter
-3/4 cup milk
+* 1 cup flour
+* 1/2 cup water
+* 2 1/2 tablespoons sugar, This is optional, for dessert crepes.
+* 2 eggs
+* 3 tablespoons butter
+* 3/4 cup milk
 
 Directions
 
