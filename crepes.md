@@ -1,4 +1,6 @@
-Ingredients
+## Crepes
+
+### Ingredients
 
 * 1 cup flour
 * 1/2 cup water
@@ -7,7 +9,7 @@ Ingredients
 * 3 tablespoons butter
 * 3/4 cup milk
 
-Directions
+### Directions
 
 1. Combine all of the ingredients together in a bowl.
 2. Once every thing is mixed bang the bowl on the cabinet to get the air bubbles out. You can also let the batter sit in the fridge for an hour.
