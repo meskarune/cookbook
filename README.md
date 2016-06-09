@@ -1,4 +1,4 @@
 cookbook
 ========
 
-An open source cookbook
+Recipes that I use regularly
