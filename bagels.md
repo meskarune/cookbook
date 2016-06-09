@@ -30,4 +30,4 @@
 10. When the water is boiling, add a bagel to the pot and cook for 2 minutes a
     side. Boil each bagel and place them onto a greased baking sheet.
 11. Cover the tops of the bagels with the cheese/bacon mix
-12. Cook at 424F for 20 minutes
+12. Cook at 425F for 20 minutes
