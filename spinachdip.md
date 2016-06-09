@@ -1,6 +1,6 @@
-= Alton Brown's Hot Spinach and Artichoke Dip
+# Alton Brown's Hot Spinach and Artichoke Dip
 
-== Ingredients
+## Ingredients
 
 * 1 5-ounce box frozen spinach
 * 1 9-ounce box frozen artichoke hearts (see note)
@@ -13,7 +13,7 @@
 * 1/4 teaspoon kosher salt
 * 1/4 teaspoon garlic powder
 
-== Instructions
+## Instructions
 
 1. Place the spinach, artichokes and water in a 2-quart saucepan over high heat.
 2. Cook just until the vegetables are heated through. Drain and squeeze as much liquid out as possible.
