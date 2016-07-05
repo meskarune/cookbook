@@ -4,6 +4,8 @@ Lola Cookies
 Lolas are oatmeal based cookies with coconut, cherry, almond and white
 chocolate chips.
 
+![image of plate of cookies](http://i.imgur.com/UxaxEQum.jpg)
+
 Ingredients
 -----------
 
