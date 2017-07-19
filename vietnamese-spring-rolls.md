@@ -30,10 +30,10 @@
 5. Repeat for the rest of the rolls.
 
 
-/* I like Rose Bahn Trang and Three ladies - Ba Co Gai brands as they are thicker
+*I like Rose Bahn Trang and Three ladies - Ba Co Gai brands as they are thicker
   and don't tear as easily.
 
-# ## Nuoc Cham - Dipping Sauce
+## Nuoc Cham - Dipping Sauce
 
 ### Ingredients
 
@@ -49,7 +49,7 @@
    to taste, chili to taste.
 2. Cook the sauce in a pot until the sugar is disolved. Cool and use.
 
-/* Use vietnamese brand fish sauce if you can. If you only have chinese, dilute
+*Use vietnamese brand fish sauce if you can. If you only have chinese, dilute
 it with water so it isn't as strong.
 
 ## Simple Peanut Sauce
