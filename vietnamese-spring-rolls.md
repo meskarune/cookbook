@@ -62,4 +62,4 @@ it with water so it isn't as strong.
 
 ### Instructions
 
-1. Mix equal parts hoisin sauce and peanut sauce, add chili paste to taste.
+1. Mix equal parts hoisin sauce and peanut butter, add chili paste to taste.
