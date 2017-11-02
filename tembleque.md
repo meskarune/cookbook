@@ -5,7 +5,7 @@
 ## Ingredients
 
 1. 1 can of coconut milk (16 oz)
-2. 1/2 can of coconut cream (8oz) (more if you want it sweeter)
+2. 1 can of coconut cream (8oz)
 3. 1/4 cup corn starch or rice flour
 4. 1/2 tsp orange blossom water (traditional but optional. Don't sub vanilla,
    it will overpower the coconut)
