@@ -4,6 +4,7 @@ Dutch Baby Pancakes
 Ingredients
 -----------
 
+* 3 eggs
 * 1/2 cup milk
 * 1/2 cup flour
 * Dash of salt
